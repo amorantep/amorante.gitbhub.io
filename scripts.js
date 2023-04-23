@@ -1,1 +1,4 @@
-// Add any custom JavaScript code here
+$(document).ready(function() {
+    // Add any custom JavaScript code here
+  });
+  
